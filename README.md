@@ -1,2 +1,2 @@
-# sumple-repo
+# sample-repo
 git練習
